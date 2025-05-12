@@ -58,5 +58,3 @@ To verify your machine code , you can use "Venus Simulator" and match it with th
 This Project is contributed by-
   
 ## Lakshay Kumar 2023CSB1132
-## Harsh Asodariya 2023CSB1103
-## Vivaan Garg 2023CSB1173
